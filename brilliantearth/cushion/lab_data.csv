@@ -1,0 +1,553 @@
+Price ($),Carat,Cut,Color,Clarity,Price/Ct
+1030,0.76,Super Ideal,D,VVS2,1355
+990,0.83,Super Ideal,E,VVS2,1192
+790,0.71,Super Ideal,F,VS1,1112
+880,0.76,Super Ideal,E,VS1,1157
+920,0.81,Super Ideal,F,VVS2,1135
+1010,0.79,Super Ideal,D,VS1,1278
+1200,0.82,Super Ideal,D,VVS1,1463
+920,0.89,Super Ideal,G,VS1,1033
+660,0.7,Super Ideal,H,VS1,942
+660,0.7,Super Ideal,F,SI1,942
+660,0.7,Super Ideal,F,SI1,942
+660,0.71,Super Ideal,I,VS1,929
+670,0.7,Super Ideal,E,SI1,957
+670,0.72,Ideal,E,SI2,930
+670,0.71,Super Ideal,H,VS1,943
+670,0.71,Super Ideal,H,VS1,943
+670,0.73,Super Ideal,H,VS2,917
+670,0.73,Super Ideal,G,SI1,917
+670,0.7,Super Ideal,G,VS2,957
+670,0.72,Super Ideal,I,VS1,930
+680,0.71,Super Ideal,E,SI1,957
+680,0.71,Ideal,G,VS2,957
+680,0.74,Super Ideal,F,SI2,918
+680,0.72,Super Ideal,F,SI1,944
+680,0.71,Super Ideal,G,VS2,957
+680,0.72,Very Good,F,SI1,944
+680,0.72,Super Ideal,F,SI1,944
+680,0.71,Super Ideal,G,VS2,957
+690,0.71,Very Good,F,SI1,971
+690,0.73,Super Ideal,H,VS1,945
+690,0.71,Super Ideal,H,VS1,971
+700,0.73,Very Good,I,VVS2,958
+700,0.73,Super Ideal,G,VS2,958
+700,0.73,Ideal,G,VS2,958
+700,0.74,Super Ideal,F,SI1,945
+700,0.7,Super Ideal,E,SI1,1000
+700,0.74,Super Ideal,I,VVS2,945
+710,0.75,Super Ideal,F,SI1,946
+710,0.77,Super Ideal,F,SI2,922
+710,0.77,Super Ideal,G,SI1,922
+710,0.74,Super Ideal,G,VS2,959
+720,0.76,Super Ideal,F,SI1,947
+720,0.76,Super Ideal,H,VS1,947
+720,0.78,Super Ideal,H,VS2,923
+720,0.76,Super Ideal,H,VS2,947
+720,0.78,Very Good,H,VS2,923
+730,0.7,Super Ideal,G,VS1,1042
+730,0.7,Super Ideal,G,VS1,1042
+730,0.7,Super Ideal,F,VS2,1042
+730,0.75,Very Good,G,VS2,973
+730,0.71,Super Ideal,F,VS2,1028
+730,0.7,Super Ideal,G,VS1,1042
+730,0.7,Super Ideal,G,VS1,1042
+740,0.71,Super Ideal,F,VS2,1042
+740,0.71,Super Ideal,F,VS2,1042
+740,0.71,Super Ideal,G,VS1,1042
+740,0.77,Super Ideal,G,VS2,961
+740,0.74,Super Ideal,H,VVS2,1000
+740,0.77,Super Ideal,G,VS2,961
+740,0.7,Super Ideal,G,VVS2,1057
+740,0.71,Super Ideal,F,VS2,1042
+740,0.71,Super Ideal,G,VS1,1042
+740,0.71,Super Ideal,F,VS2,1042
+740,0.77,Super Ideal,G,VS2,961
+750,0.72,Super Ideal,G,VS1,1041
+750,0.81,Super Ideal,H,VS2,925
+750,0.72,Super Ideal,F,VS2,1041
+750,0.73,Super Ideal,F,VS2,1027
+750,0.72,Super Ideal,F,VS2,1041
+750,0.78,Super Ideal,G,VS2,961
+750,0.77,Very Good,G,VS2,974
+760,0.73,Super Ideal,G,VS1,1041
+760,0.79,Super Ideal,G,VS2,962
+760,0.77,Very Good,H,VVS2,987
+760,0.82,Super Ideal,G,SI1,926
+760,0.73,Super Ideal,F,VS2,1041
+760,0.79,Super Ideal,G,VS2,962
+760,0.8,Ideal,F,SI1,950
+760,0.7,Super Ideal,E,VS2,1085
+760,0.73,Super Ideal,G,VS1,1041
+760,0.7,Super Ideal,E,VS2,1085
+760,0.73,Super Ideal,F,VS2,1041
+760,0.79,Super Ideal,G,VS2,962
+760,0.78,Very Good,G,VS2,974
+760,0.78,Very Good,G,VS2,974
+760,0.86,Very Good,J,VS2,883
+760,0.73,Super Ideal,F,VS2,1041
+760,0.73,Super Ideal,G,VS1,1041
+760,0.79,Super Ideal,G,VS2,962
+760,0.79,Super Ideal,G,VS2,962
+770,0.71,Super Ideal,E,VS2,1084
+770,0.74,Super Ideal,F,VS2,1040
+770,0.8,Super Ideal,E,SI1,962
+770,0.8,Super Ideal,G,VS2,962
+770,0.72,Super Ideal,G,VVS2,1069
+770,0.83,Super Ideal,H,VS2,927
+770,0.81,Super Ideal,H,VS1,950
+770,0.71,Super Ideal,E,VS2,1084
+770,0.74,Super Ideal,F,VS2,1040
+770,0.74,Super Ideal,F,VS2,1040
+770,0.74,Super Ideal,F,VS2,1040
+770,0.74,Super Ideal,G,VS1,1040
+770,0.83,Super Ideal,G,SI1,927
+770,0.8,Super Ideal,G,VS2,962
+770,0.8,Super Ideal,G,VS2,962
+770,0.83,Very Good,H,VS2,927
+770,0.71,Super Ideal,E,VS2,1084
+770,0.77,Super Ideal,H,VVS2,1000
+770,0.8,Super Ideal,G,VS2,962
+780,0.84,Super Ideal,H,VS2,928
+780,0.84,Super Ideal,H,VS2,928
+780,0.76,Super Ideal,F,VS2,1026
+780,0.72,Very Good,E,VS2,1083
+780,0.81,Super Ideal,G,VS2,962
+780,0.75,Super Ideal,F,VS2,1040
+780,0.75,Super Ideal,F,VS2,1040
+780,0.75,Super Ideal,G,VS1,1040
+780,0.75,Super Ideal,F,VS2,1040
+780,0.75,Super Ideal,G,VS1,1040
+780,0.81,Super Ideal,G,VS2,962
+780,0.82,Super Ideal,H,VS1,951
+780,0.82,Ideal,H,VS1,951
+780,0.72,Super Ideal,E,VS2,1083
+780,0.72,Super Ideal,E,VS2,1083
+780,0.7,Very Good,F,VS1,1114
+780,0.81,Super Ideal,G,VS2,962
+780,0.81,Super Ideal,G,VS2,962
+780,0.72,Very Good,E,VS2,1083
+780,0.7,Super Ideal,F,VS1,1114
+780,0.7,Ideal,F,VS1,1114
+790,0.87,Super Ideal,H,SI1,908
+790,0.73,Super Ideal,E,VS2,1082
+790,0.76,Super Ideal,F,VS2,1039
+790,0.76,Super Ideal,F,VS2,1039
+790,0.73,Super Ideal,E,VS2,1082
+790,0.82,Super Ideal,G,VS2,963
+790,0.7,Super Ideal,F,VS1,1128
+790,0.7,Super Ideal,F,VS1,1128
+790,0.71,Ideal,F,VS1,1112
+790,0.7,Super Ideal,F,VS1,1128
+790,0.76,Super Ideal,F,VS2,1039
+790,0.82,Super Ideal,G,VS2,963
+790,0.73,Super Ideal,E,VS2,1082
+790,0.7,Super Ideal,F,VS1,1128
+790,0.83,Super Ideal,F,SI1,951
+790,0.83,Super Ideal,F,SI1,951
+790,0.82,Super Ideal,G,VS2,963
+790,0.83,Super Ideal,H,VS1,951
+790,0.86,Very Good,H,VS2,918
+790,0.7,Super Ideal,F,VS1,1128
+790,0.76,Super Ideal,G,VS1,1039
+790,0.76,Super Ideal,G,VS1,1039
+800,0.77,Super Ideal,F,VS2,1038
+800,0.77,Super Ideal,F,VS2,1038
+800,0.84,Super Ideal,F,SI1,952
+800,0.77,Super Ideal,F,VS2,1038
+800,0.71,Super Ideal,F,VS1,1126
+820,0.79,Super Ideal,G,VS1,1037
+820,0.79,Super Ideal,F,VS2,1037
+820,0.89,Very Good,H,VS2,921
+820,0.76,Ideal,E,VS2,1078
+820,0.75,Good,E,VS2,1093
+820,0.79,Super Ideal,F,VS2,1037
+820,0.72,Super Ideal,F,VVS2,1138
+820,0.79,Super Ideal,G,VS1,1037
+820,0.79,Super Ideal,G,VS1,1037
+820,0.86,Ideal,G,VS2,953
+820,0.73,Super Ideal,F,VS1,1123
+820,0.75,Super Ideal,G,VVS2,1093
+820,0.77,Super Ideal,G,VVS2,1064
+820,0.79,Ideal,G,VS1,1037
+830,0.8,Super Ideal,G,VS1,1037
+830,0.87,Super Ideal,H,VS1,954
+830,0.78,Very Good,F,VS2,1064
+830,0.78,Very Good,F,VS2,1064
+830,0.88,Super Ideal,F,SI1,943
+830,0.77,Ideal,E,VS2,1077
+830,0.7,Super Ideal,E,VS1,1185
+830,0.7,Super Ideal,E,VS1,1185
+830,0.87,Super Ideal,E,SI1,954
+830,0.87,Super Ideal,G,VS2,954
+830,0.74,Super Ideal,F,VS1,1121
+830,0.74,Super Ideal,F,VS1,1121
+830,0.7,Ideal,E,VVS2,1185
+830,0.73,Super Ideal,F,VVS2,1136
+830,0.7,Very Good,E,VS1,1185
+830,0.78,Very Good,G,VVS2,1064
+830,0.78,Very Good,G,VVS2,1064
+830,0.78,Very Good,F,VS2,1064
+830,0.78,Very Good,F,VS2,1064
+830,0.74,Super Ideal,F,VS1,1121
+830,0.78,Very Good,G,VVS2,1064
+830,0.8,Super Ideal,G,VS1,1037
+830,0.8,Super Ideal,G,VS1,1037
+830,0.87,Super Ideal,G,VS2,954
+830,0.77,Super Ideal,E,VS2,1077
+830,0.7,Super Ideal,E,VS1,1185
+830,0.7,Super Ideal,E,VS1,1185
+830,0.7,Super Ideal,E,VVS2,1185
+830,0.74,Super Ideal,F,VS1,1121
+830,0.78,Very Good,G,VVS2,1064
+830,0.8,Super Ideal,F,VS2,1037
+830,0.87,Super Ideal,G,VS2,954
+830,0.78,Very Good,F,VS2,1064
+830,0.88,Super Ideal,F,SI1,943
+830,0.8,Super Ideal,F,VS2,1037
+830,0.8,Super Ideal,F,VS2,1037
+830,0.87,Super Ideal,G,VS2,954
+830,0.87,Super Ideal,G,VS2,954
+830,0.71,Ideal,E,VS1,1169
+840,0.73,Ideal,E,VS2,1150
+840,0.7,Very Good,E,VVS2,1200
+840,0.75,Super Ideal,F,VS1,1120
+840,0.79,Super Ideal,G,VVS2,1063
+840,0.71,Super Ideal,E,VS1,1183
+840,0.71,Super Ideal,E,VS1,1183
+840,0.78,Super Ideal,E,VS2,1076
+840,0.78,Super Ideal,E,VS2,1076
+840,0.75,Super Ideal,F,VS1,1120
+840,0.75,Super Ideal,F,VS1,1120
+840,0.75,Super Ideal,F,VS1,1120
+840,0.81,Super Ideal,F,VS2,1037
+840,0.81,Super Ideal,G,VS1,1037
+840,0.88,Super Ideal,G,VS2,954
+840,0.88,Super Ideal,E,SI1,954
+840,0.75,Super Ideal,F,VS1,1120
+840,0.79,Super Ideal,G,VVS2,1063
+840,0.72,Super Ideal,E,VS1,1166
+840,0.71,Super Ideal,E,VS1,1183
+840,0.71,Super Ideal,E,VS1,1183
+840,0.71,Super Ideal,E,VS1,1183
+840,0.75,Super Ideal,F,VS1,1120
+840,0.75,Super Ideal,F,VS1,1120
+840,0.75,Super Ideal,F,VS1,1120
+840,0.7,Super Ideal,F,VVS2,1200
+840,0.79,Super Ideal,G,VVS2,1063
+840,0.89,Super Ideal,F,SI1,943
+840,0.81,Super Ideal,F,VS2,1037
+840,0.88,Super Ideal,G,VS2,954
+850,0.89,Super Ideal,G,VS2,955
+850,0.71,Super Ideal,E,VVS2,1197
+850,0.74,Super Ideal,F,VS1,1148
+850,0.76,Super Ideal,F,VS1,1118
+850,0.75,Super Ideal,F,VVS2,1133
+850,0.82,Super Ideal,F,VS2,1036
+850,0.82,Super Ideal,F,VS2,1036
+850,0.72,Super Ideal,E,VS1,1180
+850,0.7,Super Ideal,E,VVS2,1214
+850,0.75,Ideal,F,VVS2,1133
+850,0.76,Super Ideal,F,VS1,1118
+850,0.71,Super Ideal,F,VVS2,1197
+850,0.82,Super Ideal,F,VS2,1036
+850,0.73,Super Ideal,E,VS1,1164
+850,0.71,Super Ideal,E,VVS2,1197
+850,0.73,Ideal,E,VS1,1164
+850,0.77,Very Good,E,VS2,1103
+850,0.75,Very Good,F,VVS2,1133
+880,0.85,Super Ideal,G,VS1,1035
+880,0.85,Super Ideal,G,VS1,1035
+880,0.76,Very Good,E,VS1,1157
+880,0.74,Super Ideal,F,VS1,1189
+880,0.75,Super Ideal,E,VS1,1173
+880,0.81,Super Ideal,E,VS2,1086
+880,0.77,Super Ideal,F,VS1,1142
+880,0.77,Very Good,F,VVS2,1142
+880,0.79,Super Ideal,F,VS1,1113
+880,0.79,Super Ideal,F,VS1,1113
+880,0.81,Super Ideal,E,VS2,1086
+880,0.81,Ideal,E,VS2,1086
+880,0.76,Super Ideal,E,VS1,1157
+880,0.75,Super Ideal,E,VS1,1173
+880,0.73,Super Ideal,E,VVS2,1205
+880,0.79,Very Good,E,VS2,1113
+880,0.72,Very Good,D,VS2,1222
+880,0.81,Super Ideal,E,VS2,1086
+880,0.77,Super Ideal,F,VVS2,1142
+880,0.85,Super Ideal,G,VS1,1035
+880,0.73,Very Good,E,VVS2,1205
+880,0.78,Super Ideal,F,VS1,1128
+880,0.77,Super Ideal,F,VVS2,1142
+880,0.85,Super Ideal,F,VS2,1035
+890,0.86,Super Ideal,G,VS1,1034
+890,0.86,Super Ideal,G,VS1,1034
+890,0.79,Very Good,F,VS1,1126
+890,0.82,Super Ideal,E,VS2,1085
+890,0.73,Super Ideal,E,VVS2,1219
+890,0.75,Super Ideal,E,VVS2,1186
+890,0.76,Super Ideal,E,VS1,1171
+890,0.76,Super Ideal,E,VS1,1171
+890,0.82,Super Ideal,E,VS2,1085
+890,0.82,Super Ideal,E,VS2,1085
+890,0.82,Super Ideal,E,VS2,1085
+890,0.86,Super Ideal,F,VS2,1034
+890,0.79,Super Ideal,F,VS1,1126
+890,0.79,Super Ideal,F,VS1,1126
+890,0.78,Very Good,F,VS1,1141
+890,0.78,Very Good,F,VVS2,1141
+890,0.78,Very Good,F,VVS2,1141
+890,0.78,Very Good,F,VVS2,1141
+890,0.79,Super Ideal,F,VS1,1126
+890,0.78,Very Good,F,VS1,1141
+890,0.78,Very Good,F,VS1,1141
+890,0.78,Very Good,F,VS1,1141
+890,0.79,Very Good,F,VS1,1126
+890,0.78,Very Good,F,VVS2,1141
+890,0.8,Super Ideal,F,VS1,1112
+890,0.86,Super Ideal,G,VS1,1034
+890,0.86,Super Ideal,G,VS1,1034
+890,0.81,Ideal,D,SI1,1098
+890,0.73,Super Ideal,E,VVS2,1219
+890,0.74,Super Ideal,E,VVS2,1202
+890,0.78,Very Good,F,VS1,1141
+890,0.86,Super Ideal,G,VS1,1034
+890,0.86,Super Ideal,G,VS1,1034
+890,0.86,Super Ideal,G,VS1,1034
+890,0.76,Super Ideal,E,VS1,1171
+890,0.74,Super Ideal,E,VVS2,1202
+890,0.75,Ideal,E,VVS2,1186
+890,0.71,Ideal,E,VS1,1253
+890,0.82,Super Ideal,E,VS2,1085
+890,0.82,Super Ideal,E,VS2,1085
+890,0.86,Ideal,G,VS1,1034
+900,0.87,Super Ideal,F,VS2,1034
+900,0.79,Super Ideal,F,VVS2,1139
+900,0.81,Super Ideal,F,VS1,1111
+900,0.8,Super Ideal,F,VS1,1125
+900,0.8,Super Ideal,F,VS1,1125
+900,0.87,Super Ideal,F,VS2,1034
+900,0.77,Super Ideal,E,VS1,1168
+900,0.7,Ideal,E,VS1,1285
+900,0.8,Super Ideal,F,VS1,1125
+900,0.8,Super Ideal,F,VS1,1125
+900,0.87,Super Ideal,F,VS2,1034
+900,0.87,Super Ideal,G,VS1,1034
+900,0.87,Super Ideal,G,VS1,1034
+900,0.75,Super Ideal,E,VS1,1200
+900,0.87,Super Ideal,G,VS1,1034
+900,0.79,Super Ideal,F,VVS2,1139
+900,0.8,Super Ideal,F,VS1,1125
+900,0.8,Super Ideal,F,VS1,1125
+900,0.87,Super Ideal,F,VS2,1034
+910,0.88,Super Ideal,F,VS2,1034
+910,0.88,Super Ideal,G,VS1,1034
+910,0.77,Very Good,E,VS1,1181
+910,0.88,Super Ideal,F,VS2,1034
+910,0.88,Super Ideal,G,VS1,1034
+910,0.77,Super Ideal,E,VS1,1181
+910,0.78,Super Ideal,E,VS2,1166
+910,0.77,Super Ideal,F,VS1,1181
+910,0.81,Super Ideal,F,VS1,1123
+910,0.88,Super Ideal,F,VS2,1034
+910,0.88,Super Ideal,G,VS1,1034
+910,0.86,Super Ideal,G,VVS2,1058
+910,0.86,Super Ideal,G,VVS2,1058
+910,0.84,Super Ideal,E,VS2,1083
+910,0.84,Super Ideal,E,VS2,1083
+920,0.89,Super Ideal,F,VS2,1033
+920,0.81,Ideal,F,VVS2,1135
+920,0.74,Super Ideal,E,VS1,1243
+920,0.78,Super Ideal,E,VS1,1179
+920,0.78,Super Ideal,E,VS1,1179
+920,0.77,Super Ideal,E,VVS2,1194
+920,0.79,Very Good,E,VS1,1164
+920,0.89,Super Ideal,F,VS2,1033
+930,0.82,Ideal,F,VVS2,1134
+930,0.83,Super Ideal,F,VS1,1120
+930,0.83,Super Ideal,F,VS1,1120
+930,0.78,Very Good,E,VS1,1192
+930,0.86,Super Ideal,E,VS2,1081
+930,0.86,Super Ideal,E,VS2,1081
+930,0.86,Ideal,E,VS2,1081
+930,0.82,Very Good,F,VVS2,1134
+930,0.83,Super Ideal,F,VS1,1120
+930,0.82,Super Ideal,F,VVS2,1134
+930,0.86,Super Ideal,E,VS2,1081
+930,0.86,Super Ideal,E,VS2,1081
+930,0.86,Super Ideal,E,VS2,1081
+930,0.77,Super Ideal,E,VS1,1207
+930,0.78,Super Ideal,E,VVS2,1192
+930,0.78,Very Good,E,VS1,1192
+930,0.78,Very Good,E,VS1,1192
+930,0.78,Very Good,E,VS1,1192
+930,0.79,Ideal,E,VS1,1177
+930,0.86,Super Ideal,E,VS2,1081
+930,0.8,Super Ideal,E,VS1,1162
+930,0.83,Super Ideal,F,VS1,1120
+940,0.87,Super Ideal,E,VS2,1080
+940,0.84,Super Ideal,E,VS2,1119
+940,0.82,Ideal,F,VS1,1146
+940,0.8,Super Ideal,E,VS1,1175
+940,0.87,Super Ideal,E,VS2,1080
+940,0.84,Super Ideal,F,VS1,1119
+940,0.84,Super Ideal,F,VS1,1119
+940,0.84,Super Ideal,F,VS1,1119
+940,0.75,Super Ideal,E,VS1,1253
+940,0.81,Ideal,E,VS1,1160
+940,0.79,Super Ideal,E,VS1,1189
+940,0.78,Very Good,E,VVS2,1205
+940,0.78,Very Good,E,VVS2,1205
+940,0.75,Ideal,D,VS2,1253
+940,0.8,Super Ideal,E,VS1,1175
+940,0.8,Super Ideal,E,VS1,1175
+940,0.81,Ideal,E,VS1,1160
+940,0.77,Super Ideal,E,VVS2,1220
+940,0.81,Ideal,E,VS1,1160
+940,0.84,Super Ideal,F,VS1,1119
+950,0.79,Super Ideal,E,VVS2,1202
+950,0.79,Ideal,F,VS1,1202
+950,0.81,Super Ideal,E,VS1,1172
+950,0.88,Super Ideal,E,VS2,1079
+950,0.85,Super Ideal,F,VS1,1117
+950,0.85,Super Ideal,F,VS1,1117
+950,0.85,Super Ideal,F,VS1,1117
+950,0.85,Ideal,F,VS1,1117
+950,0.77,Super Ideal,E,VS1,1233
+950,0.85,Super Ideal,E,VS2,1117
+950,0.82,Ideal,F,VVS2,1158
+950,0.85,Super Ideal,F,VS1,1117
+950,0.85,Super Ideal,F,VS1,1117
+950,0.85,Super Ideal,F,VS1,1117
+950,0.81,Super Ideal,E,VS1,1172
+950,0.85,Super Ideal,F,VS1,1117
+950,0.85,Super Ideal,F,VS1,1117
+950,0.85,Super Ideal,F,VS1,1117
+950,0.83,Super Ideal,F,VVS2,1144
+950,0.74,Super Ideal,D,VS1,1283
+950,0.7,Ideal,D,VVS2,1357
+950,0.81,Super Ideal,E,VS1,1172
+950,0.81,Super Ideal,E,VS1,1172
+960,0.81,Super Ideal,E,VS1,1185
+960,0.82,Super Ideal,E,VS1,1170
+960,0.82,Super Ideal,E,VS1,1170
+960,0.82,Super Ideal,E,VS1,1170
+960,0.89,Super Ideal,E,VS2,1078
+960,0.75,Super Ideal,D,VS1,1280
+960,0.82,Super Ideal,E,VS1,1170
+960,0.81,Ideal,E,VVS2,1185
+960,0.82,Super Ideal,E,VS1,1170
+960,0.82,Super Ideal,E,VS1,1170
+960,0.89,Super Ideal,E,VS2,1078
+960,0.8,Very Good,E,VVS2,1200
+970,0.87,Super Ideal,F,VS1,1114
+970,0.87,Super Ideal,F,VS1,1114
+970,0.87,Super Ideal,F,VS1,1114
+970,0.87,Super Ideal,F,VS1,1114
+970,0.86,Super Ideal,F,VS1,1127
+970,0.81,Super Ideal,E,VVS2,1197
+970,0.82,Good,F,VVS2,1182
+970,0.83,Super Ideal,E,VS1,1168
+970,0.87,Super Ideal,F,VS1,1114
+970,0.87,Super Ideal,F,VS1,1114
+970,0.86,Super Ideal,F,VS1,1127
+970,0.78,Super Ideal,E,VS1,1243
+970,0.87,Super Ideal,F,VS1,1114
+970,0.87,Super Ideal,F,VS1,1114
+970,0.87,Super Ideal,F,VS1,1114
+970,0.86,Super Ideal,F,VS1,1127
+970,0.81,Super Ideal,E,VVS2,1197
+970,0.78,Super Ideal,E,VS1,1243
+970,0.78,Super Ideal,E,VS1,1243
+970,0.8,Very Good,E,VS1,1212
+970,0.87,Super Ideal,F,VS1,1114
+970,0.86,Super Ideal,F,VS1,1127
+970,0.87,Super Ideal,F,VS1,1114
+970,0.86,Super Ideal,F,VS1,1127
+970,0.86,Super Ideal,F,VS1,1127
+980,0.8,Ideal,E,VVS2,1225
+980,0.86,Super Ideal,F,VVS2,1139
+980,0.82,Super Ideal,E,VVS2,1195
+980,0.78,Super Ideal,E,VVS2,1256
+980,0.86,Super Ideal,F,VVS2,1139
+980,0.84,Ideal,F,VS1,1166
+980,0.78,Super Ideal,E,VVS2,1256
+980,0.83,Super Ideal,E,VS1,1180
+980,0.82,Super Ideal,E,VVS2,1195
+980,0.86,Super Ideal,F,VVS2,1139
+990,0.88,Super Ideal,F,VS1,1125
+990,0.87,Super Ideal,F,VVS2,1137
+990,0.88,Super Ideal,F,VS1,1125
+990,0.88,Super Ideal,F,VS1,1125
+990,0.79,Super Ideal,E,VVS2,1253
+990,0.77,Super Ideal,D,VS1,1285
+990,0.79,Ideal,F,VVS2,1253
+990,0.84,Super Ideal,E,VS1,1178
+990,0.83,Super Ideal,E,VVS2,1192
+990,0.89,Super Ideal,F,VS1,1112
+990,0.88,Super Ideal,F,VS1,1125
+990,0.88,Super Ideal,F,VS1,1125
+990,0.73,Super Ideal,D,VVS2,1356
+1000,0.84,Very Good,E,VS1,1190
+1000,0.89,Super Ideal,F,VS1,1123
+1000,0.85,Super Ideal,E,VS1,1176
+1000,0.89,Super Ideal,F,VS1,1123
+1000,0.89,Super Ideal,F,VS1,1123
+1000,0.89,Super Ideal,F,VS1,1123
+1000,0.89,Super Ideal,F,VS1,1123
+1000,0.88,Ideal,F,VVS2,1136
+1000,0.86,Super Ideal,F,VVS2,1162
+1010,0.74,Ideal,E,VVS2,1364
+1010,0.86,Super Ideal,E,VS1,1174
+1010,0.74,Ideal,D,VVS2,1364
+1010,0.79,Ideal,D,VS1,1278
+1010,0.86,Super Ideal,E,VS1,1174
+1010,0.86,Super Ideal,E,VS1,1174
+1010,0.86,Super Ideal,E,VS1,1174
+1010,0.86,Super Ideal,E,VS1,1174
+1010,0.86,Super Ideal,E,VS1,1174
+1010,0.86,Super Ideal,E,VS1,1174
+1010,0.86,Ideal,E,VS1,1174
+1010,0.86,Super Ideal,E,VS1,1174
+1010,0.85,Super Ideal,E,VVS2,1188
+1010,0.85,Ideal,E,VVS2,1188
+1010,0.87,Ideal,E,VS1,1160
+1010,0.89,Super Ideal,F,VVS2,1134
+1010,0.74,Super Ideal,D,VVS2,1364
+1020,0.87,Super Ideal,E,VS1,1172
+1020,0.75,Ideal,D,VVS2,1360
+1020,0.88,Super Ideal,E,VS1,1159
+1020,0.85,Super Ideal,E,VS1,1200
+1020,0.8,Very Good,D,VS1,1275
+1020,0.85,Super Ideal,E,VVS2,1200
+1020,0.85,Super Ideal,E,VVS2,1200
+1020,0.72,Ideal,D,VS1,1416
+1020,0.8,Ideal,D,VS1,1275
+1030,0.81,Super Ideal,F,VVS1,1271
+1030,0.88,Super Ideal,E,VS1,1170
+1030,0.88,Super Ideal,E,VS1,1170
+1030,0.76,Super Ideal,D,VVS2,1355
+1030,0.82,Super Ideal,F,VVS1,1256
+1030,0.87,Ideal,E,VS2,1183
+1030,0.88,Super Ideal,E,VS1,1170
+1030,0.88,Super Ideal,E,VS1,1170
+1030,0.86,Super Ideal,E,VVS2,1197
+1040,0.89,Super Ideal,E,VS1,1168
+1040,0.87,Super Ideal,E,VVS2,1195
+1040,0.81,Super Ideal,D,VS1,1283
+1040,0.81,Ideal,D,VS1,1283
+1040,0.89,Super Ideal,E,VS1,1168
+1040,0.81,Very Good,D,VS1,1283
+1040,0.89,Super Ideal,E,VS1,1168
+1040,0.87,Super Ideal,E,VVS2,1195
+1050,0.88,Super Ideal,E,VVS2,1193
+1050,0.82,Very Good,D,VS1,1280
+1050,0.88,Super Ideal,E,VVS2,1193
+1050,0.84,Super Ideal,F,VVS1,1250
+1060,0.89,Ideal,E,VVS2,1191
+1060,0.78,Ideal,D,VVS2,1358
+1060,0.78,Very Good,D,VVS2,1358
+1060,0.84,Super Ideal,E,VS2,1261
+1100,0.81,Super Ideal,D,VVS2,1358
+1100,0.72,Super Ideal,D,VVS1,1527
+1100,0.81,Very Good,D,VVS2,1358
