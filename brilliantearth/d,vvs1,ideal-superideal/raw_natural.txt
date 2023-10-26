@@ -1,0 +1,888 @@
+<div class="inner item" data-have="true" data-position="0" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" style="" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="0"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/radiant.png" width="20"/>
+<span class="shape-type-name">Radiant</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$2,320</td><td class="carat" scope="col" width="8%">0.70</td><td class="cut" scope="col" width="8%">Super Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.24</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="17692430" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="35" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="1"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/radiant.png" width="20"/>
+<span class="shape-type-name">Radiant</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$2,840</td><td class="carat" scope="col" width="8%">0.70</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.23</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="21318003" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="70" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="2"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/radiant.png" width="20"/>
+<span class="shape-type-name">Radiant</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$2,490</td><td class="carat" scope="col" width="8%">0.80</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.47</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="22522932" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="105" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="3"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/princess.png" width="20"/>
+<span class="shape-type-name">Princess</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$2,270</td><td class="carat" scope="col" width="8%">0.71</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.02</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="14165320" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="140" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="4"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/marquise.png" width="20"/>
+<span class="shape-type-name">Marquise</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$3,560</td><td class="carat" scope="col" width="8%">0.70</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.99</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="21718104" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="175" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="5"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/oval.png" width="20"/>
+<span class="shape-type-name">Oval</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$3,630</td><td class="carat" scope="col" width="8%">0.81</td><td class="cut" scope="col" width="8%">Super Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.35</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="22703635" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="210" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="6"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/cushion.png" width="20"/>
+<span class="shape-type-name">Cushion</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$2,350</td><td class="carat" scope="col" width="8%">0.82</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.03</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="22911776" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="245" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="7"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/pear.png" width="20"/>
+<span class="shape-type-name">Pear</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$3,900</td><td class="carat" scope="col" width="8%">0.84</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.75</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="22842769" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="280" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="8"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/cushion.png" width="20"/>
+<span class="shape-type-name">Cushion</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$1,730</td><td class="carat" scope="col" width="8%">0.71</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.05</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="13716311" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="315" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="9"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/cushion.png" width="20"/>
+<span class="shape-type-name">Cushion</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$1,810</td><td class="carat" scope="col" width="8%">0.71</td><td class="cut" scope="col" width="8%">Super Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="22915103" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="350" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="10"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/emerald.png" width="20"/>
+<span class="shape-type-name">Emerald</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$1,870</td><td class="carat" scope="col" width="8%">0.70</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.34</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="22831673" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="385" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="11"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/emerald.png" width="20"/>
+<span class="shape-type-name">Emerald</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$1,900</td><td class="carat" scope="col" width="8%">0.71</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.35</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="22831840" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="420" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="12"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/cushion.png" width="20"/>
+<span class="shape-type-name">Cushion</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$2,040</td><td class="carat" scope="col" width="8%">0.81</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.01</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="15513111" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="455" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="13"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/emerald.png" width="20"/>
+<span class="shape-type-name">Emerald</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$2,080</td><td class="carat" scope="col" width="8%">0.70</td><td class="cut" scope="col" width="8%">Super Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.37</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="19012503" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="490" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="14"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/emerald.png" width="20"/>
+<span class="shape-type-name">Emerald</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$2,140</td><td class="carat" scope="col" width="8%">0.72</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.36</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="19008916" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="525" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" style="" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="15"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/emerald.png" width="20"/>
+<span class="shape-type-name">Emerald</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$2,190</td><td class="carat" scope="col" width="8%">0.78</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.36</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="19009969" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="560" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="16"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/emerald.png" width="20"/>
+<span class="shape-type-name">Emerald</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$2,210</td><td class="carat" scope="col" width="8%">0.81</td><td class="cut" scope="col" width="8%">Super Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.35</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="21607643" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="595" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="17"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/asscher.png" width="20"/>
+<span class="shape-type-name">Asscher</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$2,230</td><td class="carat" scope="col" width="8%">0.74</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.01</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="22843249" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="630" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="18"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/emerald.png" width="20"/>
+<span class="shape-type-name">Emerald</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$2,230</td><td class="carat" scope="col" width="8%">0.71</td><td class="cut" scope="col" width="8%">Super Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.39</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="22852744" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="444" style="">
+<table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table" width="100%">
+<tbody>
+<tr class="">
+<td class="try-diamond-finder" colspan="10">
+<div class="tt-n">
+                                                                    Need help finding the perfect diamond?
+                                                                    <a class="js-diamond-quiz-modal btn tt-c btn-success quiz_click_loaded" data-noninteract="false" data-target="#myModal" data-toggle="modal" data-type="Results" href="javascript:void(0)" id="diamond-quiz-tigger-new" onclick="try_our_diamond_finder(this)" style="cursor: pointer;">try our diamond finder
+                                                                    </a>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div><div class="inner item" data-have="true" data-position="665" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="19"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/emerald.png" width="20"/>
+<span class="shape-type-name">Emerald</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$2,250</td><td class="carat" scope="col" width="8%">0.73</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.44</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="20540597" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="700" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="20"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/emerald.png" width="20"/>
+<span class="shape-type-name">Emerald</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$2,260</td><td class="carat" scope="col" width="8%">0.70</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.37</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="22823016" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="735" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="21"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/princess.png" width="20"/>
+<span class="shape-type-name">Princess</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$2,260</td><td class="carat" scope="col" width="8%">0.70</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.01</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="21607039" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="770" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="22"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/emerald.png" width="20"/>
+<span class="shape-type-name">Emerald</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$2,270</td><td class="carat" scope="col" width="8%">0.81</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.38</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="21608772" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="805" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="23"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/cushion.png" width="20"/>
+<span class="shape-type-name">Cushion</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$2,280</td><td class="carat" scope="col" width="8%">0.70</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.09</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="20301358" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="840" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="24"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/emerald.png" width="20"/>
+<span class="shape-type-name">Emerald</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$2,300</td><td class="carat" scope="col" width="8%">0.70</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.46</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="19892259" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="875" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="25"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/asscher.png" width="20"/>
+<span class="shape-type-name">Asscher</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$2,360</td><td class="carat" scope="col" width="8%">0.70</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.05</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="22842823" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="910" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="26"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/emerald.png" width="20"/>
+<span class="shape-type-name">Emerald</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$2,390</td><td class="carat" scope="col" width="8%">0.70</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.5</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="21704165" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="945" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="27"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/asscher.png" width="20"/>
+<span class="shape-type-name">Asscher</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$2,410</td><td class="carat" scope="col" width="8%">0.70</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.01</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="22853074" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="980" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="28"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/radiant.png" width="20"/>
+<span class="shape-type-name">Radiant</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$2,440</td><td class="carat" scope="col" width="8%">0.72</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.32</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="22845906" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="1015" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="29"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/cushion.png" width="20"/>
+<span class="shape-type-name">Cushion</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$2,480</td><td class="carat" scope="col" width="8%">0.80</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.06</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="22831640" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="1050" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" style="" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="30"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/princess.png" width="20"/>
+<span class="shape-type-name">Princess</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$2,500</td><td class="carat" scope="col" width="8%">0.70</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.02</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="21835361" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="1085" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="31"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/pear.png" width="20"/>
+<span class="shape-type-name">Pear</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$2,550</td><td class="carat" scope="col" width="8%">0.70</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.46</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="21666147" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="1120" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="32"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/emerald.png" width="20"/>
+<span class="shape-type-name">Emerald</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$2,550</td><td class="carat" scope="col" width="8%">0.70</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.38</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="21716151" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="1155" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="33"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/oval.png" width="20"/>
+<span class="shape-type-name">Oval</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$2,560</td><td class="carat" scope="col" width="8%">0.71</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.34</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="15513070" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="1190" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="34"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/emerald.png" width="20"/>
+<span class="shape-type-name">Emerald</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$2,580</td><td class="carat" scope="col" width="8%">0.70</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.42</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="22632019" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="1225" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="35"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/emerald.png" width="20"/>
+<span class="shape-type-name">Emerald</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$2,590</td><td class="carat" scope="col" width="8%">0.70</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.38</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="21183143" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="1260" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="36"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/emerald.png" width="20"/>
+<span class="shape-type-name">Emerald</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$2,620</td><td class="carat" scope="col" width="8%">0.72</td><td class="cut" scope="col" width="8%">Super Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.35</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="18999322" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="1295" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="37"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/pear.png" width="20"/>
+<span class="shape-type-name">Pear</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$2,650</td><td class="carat" scope="col" width="8%">0.71</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.6</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="22497424" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="1330" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="38"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/oval.png" width="20"/>
+<span class="shape-type-name">Oval</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$2,680</td><td class="carat" scope="col" width="8%">0.71</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.37</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="19011902" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="1365" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="39"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/emerald.png" width="20"/>
+<span class="shape-type-name">Emerald</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$2,700</td><td class="carat" scope="col" width="8%">0.70</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.36</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="22629678" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="1400" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="40"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/emerald.png" width="20"/>
+<span class="shape-type-name">Emerald</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$2,700</td><td class="carat" scope="col" width="8%">0.70</td><td class="cut" scope="col" width="8%">Super Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.36</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="22603837" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="1435" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="41"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/emerald.png" width="20"/>
+<span class="shape-type-name">Emerald</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$2,720</td><td class="carat" scope="col" width="8%">0.81</td><td class="cut" scope="col" width="8%">Super Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.46</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="21607192" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="1470" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="42"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/emerald.png" width="20"/>
+<span class="shape-type-name">Emerald</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$2,730</td><td class="carat" scope="col" width="8%">0.70</td><td class="cut" scope="col" width="8%">Super Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.47</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="22537734" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="1505" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="43"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/emerald.png" width="20"/>
+<span class="shape-type-name">Emerald</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$2,750</td><td class="carat" scope="col" width="8%">0.70</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.3</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="22918357" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="1540" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="44"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/emerald.png" width="20"/>
+<span class="shape-type-name">Emerald</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$2,760</td><td class="carat" scope="col" width="8%">0.70</td><td class="cut" scope="col" width="8%">Super Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.57</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="22196226" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="1575" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" style="" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="45"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/emerald.png" width="20"/>
+<span class="shape-type-name">Emerald</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$2,770</td><td class="carat" scope="col" width="8%">0.71</td><td class="cut" scope="col" width="8%">Super Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.36</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="21817936" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="1610" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="46"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/emerald.png" width="20"/>
+<span class="shape-type-name">Emerald</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$2,770</td><td class="carat" scope="col" width="8%">0.70</td><td class="cut" scope="col" width="8%">Super Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.37</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="21759400" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="1645" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="47"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/marquise.png" width="20"/>
+<span class="shape-type-name">Marquise</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$2,780</td><td class="carat" scope="col" width="8%">0.71</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">2.2</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="21607953" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="1680" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="48"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/pear.png" width="20"/>
+<span class="shape-type-name">Pear</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$2,790</td><td class="carat" scope="col" width="8%">0.70</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.45</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="22599602" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="1715" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="49"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/pear.png" width="20"/>
+<span class="shape-type-name">Pear</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$2,790</td><td class="carat" scope="col" width="8%">0.70</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.6</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="22292836" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="1750" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="50"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/marquise.png" width="20"/>
+<span class="shape-type-name">Marquise</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$2,810</td><td class="carat" scope="col" width="8%">0.70</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.83</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="22662191" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="1785" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="51"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/princess.png" width="20"/>
+<span class="shape-type-name">Princess</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$2,810</td><td class="carat" scope="col" width="8%">0.72</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.02</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="22842968" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="1820" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="52"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/pear.png" width="20"/>
+<span class="shape-type-name">Pear</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$2,850</td><td class="carat" scope="col" width="8%">0.70</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.44</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="21359112" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="1750" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" style="" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="0"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/pear.png" width="20"/>
+<span class="shape-type-name">Pear</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$2,850</td><td class="carat" scope="col" width="8%">0.70</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.63</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="21609861" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="1785" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="1"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/emerald.png" width="20"/>
+<span class="shape-type-name">Emerald</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$2,850</td><td class="carat" scope="col" width="8%">0.82</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.41</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="19009781" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="1820" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="2"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/emerald.png" width="20"/>
+<span class="shape-type-name">Emerald</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$2,850</td><td class="carat" scope="col" width="8%">0.71</td><td class="cut" scope="col" width="8%">Super Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.4</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="22831915" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="1855" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="3"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/pear.png" width="20"/>
+<span class="shape-type-name">Pear</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$2,870</td><td class="carat" scope="col" width="8%">0.72</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.52</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="22177632" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="1890" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="4"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/oval.png" width="20"/>
+<span class="shape-type-name">Oval</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$2,930</td><td class="carat" scope="col" width="8%">0.76</td><td class="cut" scope="col" width="8%">Super Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.48</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="22193710" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="1925" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="5"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/pear.png" width="20"/>
+<span class="shape-type-name">Pear</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$2,950</td><td class="carat" scope="col" width="8%">0.70</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.76</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="21358933" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="1960" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="6"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/oval.png" width="20"/>
+<span class="shape-type-name">Oval</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$2,950</td><td class="carat" scope="col" width="8%">0.70</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.34</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="21321983" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="1995" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="7"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/princess.png" width="20"/>
+<span class="shape-type-name">Princess</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$2,960</td><td class="carat" scope="col" width="8%">0.72</td><td class="cut" scope="col" width="8%">Super Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.01</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="21492276" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="2030" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="8"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/oval.png" width="20"/>
+<span class="shape-type-name">Oval</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$3,020</td><td class="carat" scope="col" width="8%">0.70</td><td class="cut" scope="col" width="8%">Super Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.35</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="20978820" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="2065" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="9"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/pear.png" width="20"/>
+<span class="shape-type-name">Pear</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$3,030</td><td class="carat" scope="col" width="8%">0.71</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.41</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="22175471" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="2100" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="10"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/pear.png" width="20"/>
+<span class="shape-type-name">Pear</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$3,060</td><td class="carat" scope="col" width="8%">0.71</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.57</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="19011120" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="2135" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="11"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/emerald.png" width="20"/>
+<span class="shape-type-name">Emerald</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$3,160</td><td class="carat" scope="col" width="8%">0.84</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.47</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="21322773" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="2170" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="12"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/pear.png" width="20"/>
+<span class="shape-type-name">Pear</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$3,220</td><td class="carat" scope="col" width="8%">0.71</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.64</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="22666188" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="2205" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="13"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/pear.png" width="20"/>
+<span class="shape-type-name">Pear</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$3,230</td><td class="carat" scope="col" width="8%">0.71</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.63</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="19756609" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="2240" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="14"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/oval.png" width="20"/>
+<span class="shape-type-name">Oval</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$3,230</td><td class="carat" scope="col" width="8%">0.76</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.5</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="22189538" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="2275" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" style="" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="15"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/oval.png" width="20"/>
+<span class="shape-type-name">Oval</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$3,240</td><td class="carat" scope="col" width="8%">0.72</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.35</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="22180090" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="2310" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="16"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/emerald.png" width="20"/>
+<span class="shape-type-name">Emerald</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$3,300</td><td class="carat" scope="col" width="8%">0.72</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.49</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="22662574" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="2345" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="17"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/emerald.png" width="20"/>
+<span class="shape-type-name">Emerald</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$3,330</td><td class="carat" scope="col" width="8%">0.70</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.51</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="22907688" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="2380" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="18"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/oval.png" width="20"/>
+<span class="shape-type-name">Oval</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$3,350</td><td class="carat" scope="col" width="8%">0.71</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.52</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="22631417" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="2415" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="19"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/pear.png" width="20"/>
+<span class="shape-type-name">Pear</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$3,390</td><td class="carat" scope="col" width="8%">0.70</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.65</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="21553682" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="2450" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="20"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/oval.png" width="20"/>
+<span class="shape-type-name">Oval</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$3,430</td><td class="carat" scope="col" width="8%">0.70</td><td class="cut" scope="col" width="8%">Super Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.52</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="22459084" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="2485" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="21"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/oval.png" width="20"/>
+<span class="shape-type-name">Oval</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$3,430</td><td class="carat" scope="col" width="8%">0.74</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.37</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="22623782" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="2520" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="22"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/pear.png" width="20"/>
+<span class="shape-type-name">Pear</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$3,450</td><td class="carat" scope="col" width="8%">0.70</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.54</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="21612975" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="2555" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="23"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/marquise.png" width="20"/>
+<span class="shape-type-name">Marquise</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$3,480</td><td class="carat" scope="col" width="8%">0.70</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.9</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="16756018" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="2590" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="24"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/emerald.png" width="20"/>
+<span class="shape-type-name">Emerald</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$3,480</td><td class="carat" scope="col" width="8%">0.76</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.38</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="22899347" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="2625" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="25"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/oval.png" width="20"/>
+<span class="shape-type-name">Oval</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$3,520</td><td class="carat" scope="col" width="8%">0.80</td><td class="cut" scope="col" width="8%">Super Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.34</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="22191302" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="2660" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="26"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/oval.png" width="20"/>
+<span class="shape-type-name">Oval</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$3,570</td><td class="carat" scope="col" width="8%">0.75</td><td class="cut" scope="col" width="8%">Super Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.38</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="22556465" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="2695" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="27"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/emerald.png" width="20"/>
+<span class="shape-type-name">Emerald</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$3,600</td><td class="carat" scope="col" width="8%">0.82</td><td class="cut" scope="col" width="8%">Super Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.38</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="21809648" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="2730" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="28"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/pear.png" width="20"/>
+<span class="shape-type-name">Pear</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$3,650</td><td class="carat" scope="col" width="8%">0.70</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.6</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="22608406" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="2765" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="29"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/oval.png" width="20"/>
+<span class="shape-type-name">Oval</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$3,680</td><td class="carat" scope="col" width="8%">0.70</td><td class="cut" scope="col" width="8%">Super Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.34</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="22180075" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="2800" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" style="" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="30"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/pear.png" width="20"/>
+<span class="shape-type-name">Pear</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$3,720</td><td class="carat" scope="col" width="8%">0.71</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.58</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="22625332" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="2835" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="31"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/pear.png" width="20"/>
+<span class="shape-type-name">Pear</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$3,740</td><td class="carat" scope="col" width="8%">0.71</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.61</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="22852934" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="2870" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="32"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/oval.png" width="20"/>
+<span class="shape-type-name">Oval</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$3,750</td><td class="carat" scope="col" width="8%">0.80</td><td class="cut" scope="col" width="8%">Super Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.52</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="21936753" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="2905" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="33"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/pear.png" width="20"/>
+<span class="shape-type-name">Pear</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$3,750</td><td class="carat" scope="col" width="8%">0.72</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.68</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="22627618" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="2940" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item active" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="34"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/pear.png" width="20"/>
+<span class="shape-type-name">Pear</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$3,780</td><td class="carat" scope="col" width="8%">0.82</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.53</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="22831788" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="2975" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="35"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/oval.png" width="20"/>
+<span class="shape-type-name">Oval</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$3,810</td><td class="carat" scope="col" width="8%">0.81</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.53</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="22332271" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="3010" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="36"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/emerald.png" width="20"/>
+<span class="shape-type-name">Emerald</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$3,950</td><td class="carat" scope="col" width="8%">0.81</td><td class="cut" scope="col" width="8%">Super Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.47</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="22317899" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="3045" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="37"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/oval.png" width="20"/>
+<span class="shape-type-name">Oval</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$3,980</td><td class="carat" scope="col" width="8%">0.80</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.35</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="22181506" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="3080" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="38"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/marquise.png" width="20"/>
+<span class="shape-type-name">Marquise</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$4,000</td><td class="carat" scope="col" width="8%">0.80</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.76</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="21960084" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="3115" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="39"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/pear.png" width="20"/>
+<span class="shape-type-name">Pear</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$4,030</td><td class="carat" scope="col" width="8%">0.83</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.55</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="22831740" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="3150" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="40"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/marquise.png" width="20"/>
+<span class="shape-type-name">Marquise</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$4,290</td><td class="carat" scope="col" width="8%">0.70</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">2.21</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="22194087" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="3185" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="41"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/pear.png" width="20"/>
+<span class="shape-type-name">Pear</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$4,290</td><td class="carat" scope="col" width="8%">0.75</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.6</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="22185639" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="3220" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="42"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/marquise.png" width="20"/>
+<span class="shape-type-name">Marquise</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$4,610</td><td class="carat" scope="col" width="8%">0.70</td><td class="cut" scope="col" width="8%">Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.91</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="21712497" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="inner item" data-have="true" data-position="3255" style=""><a class="td-n2"><table border="0" cellpadding="0" cellspacing="0" class="table-striped table-hover search-result-table variant" data-type="Results" onclick="no_bubble_ga_click(this)" width="100%"><tbody><tr class="search-item" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="height: 50px; border:none"><input class="index" type="hidden" value="43"/><td class="shape 3" scope="col" style="text-align: left" width="8%">
+<div>
+<div style="text-align: left;margin-left: 50px;">
+<img alt="diamond shape" class="mr5" src="//css.brilliantearth.com/static/img/diamond-search/diamond-shape/oval.png" width="20"/>
+<span class="shape-type-name">Oval</span> </div>
+</div>
+</td><td class="price" scope="col" width="8%">$5,150</td><td class="carat" scope="col" width="8%">0.81</td><td class="cut" scope="col" width="8%">Super Ideal</td><td class="color" scope="col" width="8%">D</td><td class="clarity" scope="col" width="8%">VVS1</td><td class="width_ratio_hide" scope="col" width="8%">1.57</td><td class="view-detail-wrapper un-bubble-ga" onclick="dtl.stop_jump();dimaondQuickViewDataPush();" style="border-right: 1px solid #e5e5e5;" width="4%"><div class="view-detail-link" data-details="details_no3" href="">
+<span class="caret"></span> </div></td><td class="un-bubble-ga ee_data compare_selector" data-action="Click" data-category="Search" data-id="22436891" data-label="Loose Diamond|Search|Compare" onclick="dtl.stop_jump();diamondCompareDataPush();" scope="col" width="5%">
+<div class="checkbox checkbox-ty4" style="color: rgb(62, 159, 142);"><label><input class="hidden"/> <span class="sr-only">checkbox</span>
+<i class="icons-checkbox"></i></label></div></td><td scope="col" width="1%"></td></tr></tbody></table></a></div><div class="loading loading_more" style="height: 511px;"><img alt="loading image" height="66" src="//css.brilliantearth.com/static/img/common/ajax-loading-new.gif" style="margin-top: -150px" width="66"/></div>
